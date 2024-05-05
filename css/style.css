@@ -1610,3 +1610,8 @@ footer .soc_icons li a {
   object-fit: cover; /* Adjusts the image size to maintain aspect ratio */
   margin-right: 10px; /* Adjust the margin between images */
 }
+
+.p-0{
+  padding: 0px;
+  width: 330px;
+}
