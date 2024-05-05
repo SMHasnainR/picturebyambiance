@@ -1606,7 +1606,7 @@ footer .soc_icons li a {
 .img-evnt{
   display: flex;
   width: 350px; /* Set the width to your desired size */
-  height: 400px; /* Set the height to your desired size */
+  height: 440px; /* Set the height to your desired size */
   object-fit: cover; /* Adjusts the image size to maintain aspect ratio */
   margin-right: 10px; /* Adjust the margin between images */
 }
